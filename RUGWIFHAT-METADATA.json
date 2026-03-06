@@ -1,0 +1,13 @@
+{
+  "name": "RUGWIFHAT",
+  "symbol": "RWH",
+  "description": "RUGWIFHAT - The legendary Shiba Inu meme token on Solana! Packed with gains, magic hats, and moon-bound energy. 10 billion tokens ready for the community. To the moon! 🚀",
+  "image": "https://raw.githubusercontent.com/jai-m5/metadata.json/main/ChatGPT%20Image%20Mar%204%2C%202026%2C%2011_42_00%20PM.png",
+  "external_url": "",
+  "attributes": [
+    {"trait_type": "Total Supply", "value": "10,000,000,000"},
+    {"trait_type": "Decimals", "value": "9"},
+    {"trait_type": "Blockchain", "value": "Solana"},
+    {"trait_type": "Type", "value": "Meme Token"}
+  ]
+}
